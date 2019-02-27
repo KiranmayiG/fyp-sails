@@ -1,2 +1,2 @@
 # fyp-sails
-FYP Using SAILS frsmework
+FYP Using SAILS framework
